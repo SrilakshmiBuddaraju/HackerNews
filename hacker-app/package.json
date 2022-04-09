@@ -10,7 +10,7 @@
     "bootstrap": "^4.5.0",
     "echarts": "^4.8.0",
     "echarts-for-react": "^2.0.16",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "react": "^16.13.1",
     "react-axios": "^2.0.3",
     "react-bootstrap": "^1.0.1",
